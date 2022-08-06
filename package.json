@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/iampirai.lwc-l6hx867t",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve tko1Vh3PnHQ3Wup4SSGK --open"
+  }
+}
